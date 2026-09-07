@@ -1,0 +1,1 @@
+pyinstaller -F -w --name Zelda --icon=img/game.ico --add-data "audio;audio" --add-data "graphics;graphics" --add-data "map;map" main.py
