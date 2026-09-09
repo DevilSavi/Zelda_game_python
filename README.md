@@ -21,7 +21,7 @@
 
 ## 🚀 Demo & Screenshots
 
->   ![Project Preview](https://repository-images.githubusercontent.com/468181616/a7445cf0-7d0c-43b4-86ac-a7035f814767)
+>   ![Project Preview](./graphics/preview.png)
 
 ---
 ## 🛠️ Installation & Setup
