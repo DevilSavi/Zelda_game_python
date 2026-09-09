@@ -70,7 +70,6 @@ Zelda_game_python/
 
 ## 🕹️ Controls
 
-```
 | Action | Key / Control |
 |---|---|
 | Move | Arrow Keys |
@@ -79,7 +78,7 @@ Zelda_game_python/
 | Switch Weapon | Q |
 | Switch Magic | E |
 | Update Menu | M |
-```
+
 ---
 
 ## 🤝 Contributing
