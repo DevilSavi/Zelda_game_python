@@ -50,6 +50,7 @@ Make sure you have **Python 3.x** installed on your system.
 
 ## 📂 Project Structure
 
+```
 Zelda_game_python/
 │
 ├── code/               # Core Python scripts (game logic, sprites, UI, tilemap)
@@ -63,11 +64,13 @@ Zelda_game_python/
 ├── graphics/           # Sprites, tilemaps, weapon icons, and animations
 ├── audio/              # Sound effects and background music
 └── README.md           # Project documentation
+```
 
 ---
 
 ## 🕹️ Controls
 
+```
 | Action | Key / Control |
 |---|---|
 | Move | Arrow Keys |
@@ -76,21 +79,23 @@ Zelda_game_python/
 | Switch Weapon | Q |
 | Switch Magic | E |
 | Update Menu | M |
-
+```
 ---
 
 ## 🤝 Contributing
 
 Contributions, bug reports, and feature requests are welcome!
  * Fork the repository.
- * Create your feature branch (git checkout -b feature/NewFeature).
- * Commit your changes (git commit -m 'Add NewFeature').
- * Push to the branch (git push origin feature/NewFeature).
+ * Create your feature branch (`git checkout -b feature/NewFeature`).
+ * Commit your changes (`git commit -m 'Add NewFeature'`).
+ * Push to the branch (`git push origin feature/NewFeature`).
  * Open a Pull Request.
 
 ---
 
 ## 📄 License
 
-Distributed under the MIT License. See LICENSE for details.
+Distributed under the MIT License. See `LICENSE` for details.
+```
 
+```
