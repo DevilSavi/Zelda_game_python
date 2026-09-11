@@ -78,13 +78,13 @@ Zelda_game_python/
 
 | Action | Key / Control |
 |---|---|
-| Move | Arrow Keys |
-| Attack | Spacebar |
-| Cast Magic | Left Control |
-| Switch Weapon | Q |
-| Switch Magic | E |
-| Upgrade Menu | M |
-| Upgrade(in Menu) | Spacebar |
+| Move | **`Arrow Keys`** |
+| Attack | **`Spacebar`** |
+| Cast Magic | **`Left Control`** |
+| Switch Weapon | **`Q`** |
+| Switch Magic | **`E`** |
+| Upgrade Menu | **`M`** |
+| Upgrade(in Menu) | **`Spacebar`** |
 
 ---
 
