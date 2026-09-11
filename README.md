@@ -35,15 +35,15 @@ Make sure you have **Python 3.11** installed on your system.
     ```bash
     git clone [https://github.com/DevilSavi/Zelda_game_python git](https://github.com/DevilSavi/Zelda_game_python.git)
 
- * Navigate to the project directory:
+2. Navigate to the project directory:
     ```bash
     cd Zelda_game_python
 
- * Install dependencies:
+3. Install dependencies:
     ```bash
     pip install pygame
 
- * Run the game:
+4. Run the game:
     ```bash
     python main.py
    
